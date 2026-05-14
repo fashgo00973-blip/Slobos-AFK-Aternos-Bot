@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CounNrty.aternos.me",
-    "port": 26250,
+    "ip": "CounNtry.aternos.me",
+    "port": 24112,
     "version": "",
     "try-creative": false
   },
